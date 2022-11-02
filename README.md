@@ -16,7 +16,7 @@ pip install bs4
 
 pip install rich
 
-git clone https://github.com/CrackFbBapaLo.git
+git clone https://github.com/Traversxd/CrackFbBapaLo.git
 
 cd CrackFbBapaLo
 
