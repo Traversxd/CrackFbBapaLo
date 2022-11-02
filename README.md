@@ -21,3 +21,12 @@ git clone https://github.com/CrackFbBapaLo.git
 cd CrackFbBapaLo
 
 python CrackFbBapaLo.py
+
+update Script
+
+cd CrackFbBapaLo
+
+git pull
+
+python CrackFbBapaLo.py
+
