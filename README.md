@@ -1,4 +1,4 @@
-#Install Tools Termux 
+# Install Tools Termux 
 
 pkg update && pkg upgrade
 
@@ -22,7 +22,7 @@ cd CrackFbBapaLo
 
 python CrackFbBapaLo.py
 
-update Script
+# update Script
 
 cd CrackFbBapaLo
 
